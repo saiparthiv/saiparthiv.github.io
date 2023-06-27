@@ -14,5 +14,3 @@ By default, the theme only contains these few pages in order to stay lean and fl
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
-
-{% include archive.html %}
