@@ -1,19 +1,19 @@
 # site settings
 
-title: Sai Parthiv Bandikallu Personal Website
-description: My personal website that displays all my work and career projects.
-taglong: online CV and personal website
-tagshort: personal website
-url: https://saiparthiv.me
+title: Sai Parthiv's Personal Website
+description: Jekyll theme for a beautiful online CV
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/saiparthiv/saiparthiv.github.io
+repo: https://github.com/username/username.github.io
 
 # author settings
 
 author:
-  name: Sai Parthiv Bandikallu
-  email: saiparthiv95@gmail.com
+  name: Place Holder
+  email: username@domain.com
 photo: /assets/photo.jpg
 
 # build settings
