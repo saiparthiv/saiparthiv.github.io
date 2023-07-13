@@ -2,8 +2,8 @@
 
 title: Sai Parthiv Bandikallu's Personal Website
 description: My personal website for online CV
-taglong: My personal website for online CV
-tagshort: Jekyll theme
+tag-long: My personal website for online CV
+tag-short: Jekyll theme
 url: https://saiparthiv.me
 baseurl: ""
 permalink: pretty

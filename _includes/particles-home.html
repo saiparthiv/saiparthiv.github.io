@@ -1,10 +1,10 @@
 <div id="particles-js" class="fullscreen">
   <div class="jumbotron text-center">
     {% if site.photo %}
-    <img class="particles-photo" src="../assets/mypic.JPG"  alt=""/>
+    <img class="particles-photo" src="{{ site.photo }}"  alt=""/>
     {% endif %}
     <h1 class="particles-title">{{ site.title }}</h1>
-    <h1 class="particles-subtitle">{{ site.taglong }}</h1>
+    <h1 class="particles-subtitle">{{ site.tag-long }}</h1>
     <div class="nowrap">
       <a class="particles-icon" href="https://www.linkedin.com/saiparthivb">{% include svg/linkedin.svg %}</a>
       <a class="particles-icon" href="https://github.com/saiparthiv">{% include svg/github.svg %}</a>
