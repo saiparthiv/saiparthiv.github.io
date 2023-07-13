@@ -8,13 +8,14 @@ url: https://saiparthiv.me
 baseurl: ""
 permalink: pretty
 repo: https://github.com/saiparthiv/saiparthiv.github.io
+photo: /assets/mypic.JPG
 
 # author settings
 
 author:
   name: Sai Parthiv Bandikallu
   email: saiparthiv95@gmail.com
-photo: /assets/mypic.JPG
+
 
 # build settings
 
