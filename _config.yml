@@ -8,7 +8,7 @@ url: https://saiparthiv.me
 baseurl: ""
 permalink: pretty
 repo: https://github.com/saiparthiv/saiparthiv.github.io
-photo: /assets/mypic.JPG
+photo: ./svg/mypic.jpg
 
 # author settings
 
